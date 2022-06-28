@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+[![Guluarte's GitHub stats](https://github-readme-stats.vercel.app/api?username=guluarte)](https://github.com/guluarte/github-readme-stats)
 <!--
 **guluarte/guluarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
