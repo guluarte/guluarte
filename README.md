@@ -16,7 +16,7 @@ From e-commerce platforms to B2B tools and educational applications, I've succes
 
 Portfolio: [https://rodo.guluarte.com/portfolio/](https://rodo.guluarte.com/portfolio/)
 
-- 🔭 I’m currently working on ML. AI, web3 and smart contracts
+- 🔭 I’m currently working on ML, AI
 - 🌱 I’m currently learning rust
 - 👯 I’m looking to collaborate on AI/ML/web3 projects
 
@@ -30,4 +30,36 @@ Portfolio: [https://rodo.guluarte.com/portfolio/](https://rodo.guluarte.com/port
 
 [RLL Manager](https://rodo.guluarte.com/portfolio/rll-dashboard/)
 
-![alt](https://rodo.guluarte.com/portfolio/rll-dashboard/Screen_Uninsured-Risk-1.webp)
+![RLL Manager](https://rodo.guluarte.com/portfolio/rll-dashboard/Screen_Uninsured-Risk-1.webp)
+
+[Producers Application And Quote System](https://rodo.guluarte.com/portfolio/quote-system/)
+
+![Producers Application And Quote System](https://rodo.guluarte.com/portfolio/quote-system/Current_Activity-Property-Quote%28select%29.webp)
+
+[Chatting with Camus: A GPT-4 Powered Chatbot](https://rodo.guluarte.com/portfolio/gpt-chat/)
+
+![alt](https://rodo.guluarte.com/portfolio/gpt-chat/flow.svg)
+
+[Pokemon-Based NFT Game with a Ranking and Betting System](https://rodo.guluarte.com/portfolio/nft-trading-card-game/)
+
+![Pokemon-Based NFT Game with a Ranking and Betting System](https://rodo.guluarte.com/portfolio/nft-trading-card-game/7-4-2023_154911_localhost.webp)
+
+[Game AI Avatar Generator](https://rodo.guluarte.com/portfolio/ai-avatar-generator-project/)
+
+![Game AI Avatar Generator](https://rodo.guluarte.com/portfolio/ai-avatar-generator-project/screen1.webp)
+
+[Renters Compliance Portal](https://rodo.guluarte.com/portfolio/rcp/)
+
+![ss](https://rodo.guluarte.com/portfolio/rcp/main.webp)
+
+[Unbooked Appointments](https://rodo.guluarte.com/portfolio/unbooked-appointments/)
+
+![Unbooked Appointments](https://rodo.guluarte.com/portfolio/unbooked-appointments/service-calendar.webp)
+
+[Integrated safe school plan](https://rodo.guluarte.com/portfolio/safeschoolplan-lausd/)
+
+![Integrated safe school plan](https://rodo.guluarte.com/portfolio/safeschoolplan-lausd/issp-5-very_compressed-scale-2_00x-cropped-gigapixel.webp)
+
+[BajaPack Clients Area](https://rodo.guluarte.com/portfolio/bajapack/)
+
+![BajaPack Clients Area](https://rodo.guluarte.com/portfolio/bajapack/main.webp)
