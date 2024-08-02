@@ -20,9 +20,6 @@ Portfolio: [https://rodo.guluarte.com/portfolio/](https://rodo.guluarte.com/port
 - 🌱 I’m currently learning rust
 - 👯 I’m looking to collaborate on AI/ML/web3 projects
 
-[PETA - Veganstart](https://rodo.guluarte.com/portfolio/peta-veganstart/)
-
-![PETA](https://rodo.guluarte.com/portfolio/peta-veganstart/cover.webp)
 
 [Real-Time AI Conversation with Laravel, OpenAI API, and TortoiseTTS](https://rodo.guluarte.com/portfolio/real-time-ai-conversation/)
 
